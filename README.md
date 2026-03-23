@@ -26,7 +26,7 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
   * Binary counter for sequential addressing
   * Low-latency LUT-based design (DDS concept)
   * 8-bit digital sine output
-* 🔗 Repository: [https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/1. FPGA-Sine-Wave-Generator-BRAM](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/1. FPGA-Sine-Wave-Generator-BRAM)
+* 🔗 Repository: http://fpga-projects-portfolio/1. FPGA-Sine-Wave-Generator-BRAM/
 
 ---
 
