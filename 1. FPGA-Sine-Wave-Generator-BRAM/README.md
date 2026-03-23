@@ -4,7 +4,9 @@ This project implements a **memory-based sine wave generator** on FPGA using **B
 
 Instead of computing sine values in real-time, precomputed samples are stored in memory and accessed sequentially to generate a waveform efficiently.
 
-![Sine Wave Output](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/1.%20FPGA-Sine-Wave-Generator-BRAM/Images/Capture.JPG)
+## 📊 Simulation Result
+
+![Sine Wave Output](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/1.%20FPGA-Sine-Wave-Generator-BRAM/Images/Capture1.JPG)
 ---
 
 ## 🧠 Concept
