@@ -29,5 +29,5 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
 
 ## 📬 Contact
 
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/youssef-w-roshdy/
+* Email: youssefwagdy68@gmail.com
