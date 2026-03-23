@@ -1,5 +1,4 @@
-# [FPGA & Digital Design Portfolio]
-(https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/tree/main/1.%20FPGA-Sine-Wave-Generator-BRAM)
+# FPGA & Digital Design Portfolio
 Welcome to my FPGA and Digital Design projects portfolio.
 A structured portfolio showcasing FPGA-based digital design projects developed with Vivado, covering RTL design, simulation, and system-level implementations.
 
