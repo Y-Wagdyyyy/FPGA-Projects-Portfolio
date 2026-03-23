@@ -15,15 +15,18 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
 
 ## 📂 Projects
 
-### 🔹 1. UART Controller
+### 🔹 1. FPGA Sine Wave Generator (BRAM LUT)
 
-* **Description:** UART communication module implemented in Verilog
-* **Tools:** Vivado
+* **Description:** Memory-based sine wave generator on FPGA using BRAM and LUT approach
+* **Tools:** Vivado, Verilog, MATLAB
 * **Features:**
 
-  * Serial communication
-  * Baud rate control
-* 🔗 Repository: https://github.com/YOUR_USERNAME/FPGA-UART-Controller
+  * BRAM-based waveform generation
+  * Precomputed sine samples using .coe file
+  * Binary counter for sequential addressing
+  * Low-latency LUT-based design (DDS concept)
+  * 8-bit digital sine output
+* 🔗 Repository: [https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/1. FPGA-Sine-Wave-Generator-BRAM](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/1. FPGA-Sine-Wave-Generator-BRAM)
 
 ---
 
