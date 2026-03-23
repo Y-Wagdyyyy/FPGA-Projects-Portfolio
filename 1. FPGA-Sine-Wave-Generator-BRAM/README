@@ -67,7 +67,6 @@ src/            → Verilog / HDL files (if any)
 coe/            → Memory initialization file (.coe)
 matlab/         → MATLAB script for sine generation
 images/         → Block design & simulation screenshots
-tcl/            → (optional) project recreation scripts
 ```
 
 ---
