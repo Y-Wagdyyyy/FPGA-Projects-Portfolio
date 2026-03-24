@@ -28,7 +28,7 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
   * 8-bit digital sine output
 * 🔗 [Repository](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/tree/main/1.%20FPGA-Sine-Wave-Generator-BRAM)
 
-* 
+---
 
 ### 🔹 2. (111) Overlapping Sequence Detector
 
