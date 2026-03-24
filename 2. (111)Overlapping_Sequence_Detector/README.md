@@ -8,7 +8,7 @@ Instead of missing repeated patterns, the design ensures **continuous detection*
 
 ## 📊 Simulation Result
 
-![Sine Wave Output](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/2.%(111)Overlapping_Sequence_Detector/images/Capture.JPG)
+![Sine Wave Output](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/2.%20(111)Overlapping_Sequence_Detector/images/Capture.JPG)
 
 
 ---
