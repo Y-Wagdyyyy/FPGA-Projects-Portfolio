@@ -8,7 +8,7 @@ Instead of missing repeated patterns, the design ensures **continuous detection*
 
 ## 📊 Simulation Result
 
-![Waveform](https://via.placeholder.com/800x300?text=Add+Your+Simulation+Waveform)
+![Simulation Result](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/2.%(111)Overlapping_Sequence_Detector/images/Capture.JPG)
 
 ---
 
