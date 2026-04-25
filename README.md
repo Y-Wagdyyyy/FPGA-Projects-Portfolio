@@ -67,7 +67,7 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
   * Output data is only valid when rxdone = 1
   * Shared timing simplifies design but differs from real hardware implementations
 
-* 🔗 [Repository]
+* 🔗 [Repository](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/tree/main/3.%20UART%20Transceiver)
 
 ---
 
