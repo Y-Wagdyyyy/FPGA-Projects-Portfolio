@@ -50,24 +50,24 @@ A structured portfolio showcasing FPGA-based digital design projects developed w
 
 * **Description:** Custom UART transceiver designed from scratch using Verilog, including both transmitter and receiver modules with a shared baud rate generator and full loopback verification.
 * **Tools:** Vivado, Verilog, Testbench Simulation
-* **Features:**
-* Full UART frame implementation (Start + 8 Data + Stop)
-* Baud rate generator using clock divider (bitDone trigger)
-* Transmitter FSM (TX) for serial data output
-* Receiver FSM (RX) with mid-bit sampling
-* LSB-first data transmission
-* Loopback testing (TX → RX)
-* Randomized testbench for verification
-* Correct data reconstruction (txin == rxout)
-* Clean FSM-based RTL design
+* **Features:**  
+  * Full UART frame implementation (Start + 8 Data + Stop)
+  * Baud rate generator using clock divider (bitDone trigger)
+  * Transmitter FSM (TX) for serial data output
+  * Receiver FSM (RX) with mid-bit sampling
+  * LSB-first data transmission
+  * Loopback testing (TX → RX)
+  * Randomized testbench for verification
+  * Correct data reconstruction (txin == rxout)
+  * Clean FSM-based RTL design
 
 * **Key Design Insights::**
-* Timing is controlled using a baud counter (no shared clock line)
-* RX samples at mid-bit for reliable data capture
-* Output data is only valid when rxdone = 1
-* Shared timing simplifies design but differs from real hardware implementations
+  * Timing is controlled using a baud counter (no shared clock line)
+  * RX samples at mid-bit for reliable data capture
+  * Output data is only valid when rxdone = 1
+  * Shared timing simplifies design but differs from real hardware implementations
 
-🔗 Repository
+* 🔗 [Repository]
 
 ---
 
