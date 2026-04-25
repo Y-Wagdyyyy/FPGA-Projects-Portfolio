@@ -47,7 +47,8 @@ The system is divided into three primary functional blocks:
 * Simulation Testbench
 
 ---
-
+![Sine Wave Output](https://github.com/Y-Wagdyyyy/FPGA-Projects-Portfolio/blob/main/3.%20UART%20Transceiver/Images/Waveform.JPG)
+3.%20UART%20Transceiver/Images/Waveform.JPG
 ## ⚙️ Design Details
 
 * **Inputs**
